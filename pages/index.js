@@ -1,7 +1,6 @@
 function Home () {
 
-    return <div>Se você está lendo isso é porque deu certo!!!</div>
-    
-
+    return <div>Atualizando scripts!</div>
+    return <div>Atualizando scripts!!</div>
 }
 export default Home
