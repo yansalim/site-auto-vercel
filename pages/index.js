@@ -1,6 +1,5 @@
 function Home () {
 
-    return <div>Atualizando scripts!</div>
-    return <div>Atualizando scripts!!</div>
+    return <div>Ana K ♥</div>
 }
 export default Home
