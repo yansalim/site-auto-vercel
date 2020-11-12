@@ -1,5 +1,5 @@
 function Home () {
 
-    return <div>Teste Update 2</div>
+    return <div>Update remoto</div>
 }
 export default Home
