@@ -1,8 +1,7 @@
   
 function Home () {
 
-    return <div>NO AR!</div>
-   
+    return <div>Projeto dev em andamento. Acompanhe tudo em twitch.tv/yansalim23 </div>
 
 
                 
