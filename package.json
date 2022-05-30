@@ -19,6 +19,7 @@
   "homepage": "https://github.com/yansalim/site#readme",
   "dependencies": {
     "next": "^10.0.1",
+    "nodejs": "^0.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
